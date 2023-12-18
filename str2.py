@@ -23,3 +23,11 @@ print(mod2)
 mod3 = st.strip()
 print(mod3)
 print("-" * 50)
+
+s = "bangladesh"
+up = s.upper()
+print(up)
+lp = up.lower()
+print(lp)
+print('-' * 50)
+
