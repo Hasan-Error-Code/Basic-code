@@ -29,5 +29,12 @@ up = s.upper()
 print(up)
 lp = up.lower()
 print(lp)
+ca = lp.capitalize()
+print(ca)
 print('-' * 50)
-
+print("-" * 20, "split", "-" * 20)
+sp = "Hey   there  this is   Hasan, I am    from Bangladesh"
+spr = sp.split()
+print(spr)
+for i in spr:
+    print(i)
