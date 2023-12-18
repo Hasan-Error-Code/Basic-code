@@ -38,3 +38,9 @@ spr = sp.split()
 print(spr)
 for i in spr:
     print(i)
+
+print("-" * 20, "Count method", "-" * 20)
+co = "Hey there this is Hasan, I am a Student department of Conputer Science and Engineering"
+cor = co.count("and")
+print(co)
+print(cor)
